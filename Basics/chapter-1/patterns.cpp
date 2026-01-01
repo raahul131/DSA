@@ -158,7 +158,6 @@ void pattern15 (int n) {
         cout << endl;
     }
 }
-
 void pattern16 (int n) {
     char chr = 'A';
     for(int row = 0; row <= n; row++){
@@ -169,7 +168,7 @@ void pattern16 (int n) {
         chr++;
     }
 }
-
+  
 int main () {
 
     int n;
